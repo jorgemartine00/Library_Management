@@ -19,5 +19,4 @@ app.use((err, req, res, next) => {
     })
 })
 
-app.listen(3000)
-console.log('Server on port 3000')
+app.listen(3001)
